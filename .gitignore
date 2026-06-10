@@ -1,0 +1,22 @@
+# Vivado
+vivado_project/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+.Xil/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Datasets (Uncomment if dataset is too large for GitHub)
+# dataset/
