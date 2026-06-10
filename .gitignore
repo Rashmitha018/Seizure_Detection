@@ -20,3 +20,6 @@ __MACOSX/
 
 # Datasets (Uncomment if dataset is too large for GitHub)
 # dataset/
+
+# Documents
+*.pdf
