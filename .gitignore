@@ -25,3 +25,7 @@ __MACOSX/
 *.pdf
 *.pptx
 *.md
+*.docx
+
+# Images
+*.png
